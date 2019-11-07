@@ -9,4 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-
+int k=8;
+int z=7;
+Systeem.out.print(k+7);
