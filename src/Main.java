@@ -8,5 +8,6 @@ public class Main {
                 System.out.println("Dofamin71");
                 System.out.println("Dofam14241333323444444444444444444444444444444444444444444444444444471");
                 System.out.println("Smert Chelovekam");
+//kjhk
     }
 }

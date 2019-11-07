@@ -9,7 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-//Здесь был Котов
-int z=5;
-int t=10
-System.out.print(z+t);
+int k=8;
+int z=7;
+Systeem.out.print(k+7);
