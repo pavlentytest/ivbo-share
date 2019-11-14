@@ -4,4 +4,5 @@ public class Main {
         System.out.println("Dareten lalka");
         System.out.println("rofl");
         System.out.println("roflen");
+		System.out.println("zarffleno)");
 }
